@@ -1,14 +1,31 @@
 # Full-Stack-JS-3
 
+## Filestructure
+```
+WEB3
+  |-- 00. The Gigster Project
+  |-- ...
+  |-- core
+  |-- strech
+  |-- notes
+```
+- 00 - 12 are course work and materials
+- Core contains the challenges I've completed
+- Strech contains the strech challenges I've completed
+- Notes are a collection of my notes for the class 
+
 ## Course Overview
 
-We've learned a lot about the web; the common conventions and we've mastered authentication and authorization. Now pretty much you can sort through whatever someone asked for. However, what differentiates hackers and engineers is engineers understand what are going on under the hood of the mere conventions and tools. Engineers can also build their own tools.
+We've learned a lot about the web; the common conventions and we've mastered authentication 
+and authorization. Now pretty much you can sort through whatever someone asked for. However, 
+what differentiates hackers and engineers is engineers understand what are going on under the hood 
+of the mere conventions and tools. Engineers can also build their own tools.
 
-In this course we will go explore SQL and relational databases, look at some common advanced web functionality, and then go under the hood in Node.js and npm.
+In this course we will go explore SQL and relational databases, look at some common advanced web 
+functionality, and then go under the hood in Node.js and npm.
 
-We'll be doing projects in ES5 and ES6 - the newest version of JavaScript that is still being adopted.
-
-We'll 
+We'll be doing projects in ES5 and ES6 - the newest version of JavaScript that is 
+still being adopted.
 
 ## Competencies & Objectives
 
