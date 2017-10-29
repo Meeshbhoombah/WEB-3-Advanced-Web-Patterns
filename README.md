@@ -1,4 +1,8 @@
-# Full-Stack-JS-3
+# WEB3
+Forked from [https://github.com/Product-College-Courses/WEB-3-Advanced-Web-Patterns](https://github.com/Product-College-Courses/WEB-3-Advanced-Web-Patterns).
+- Contains:
+    + Courseware and assignments
+    + My notes, projects, and completed challenges for the class
 
 ## Filestructure
 ```
